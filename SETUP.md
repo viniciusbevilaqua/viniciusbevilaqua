@@ -1,11 +1,11 @@
-# Profile README Setup
 
-1. Create a **public** GitHub repository named exactly `viniciusbevilaqua` under the `viniciusbevilaqua` account.
-2. Upload the contents of this folder to that repository. `README.md` must remain at the repository root.
-3. Keep `.github/workflows/snake.yml` in the same location shown here.
-4. In the repository, open **Settings → Actions → General** and allow workflows to have **Read and write permissions**. Save the change.
-5. Open the **Actions** tab, choose **Generate Contribution Snake**, then select **Run workflow** once.
-6. After the workflow finishes, it creates the `output` branch and publishes the Snake SVG. The README will then display it automatically.
+# Configuração do README do perfil
 
-The workflow runs again every day. It uses the repository-provided `GITHUB_TOKEN`; no personal access token or additional secret is needed.
+1. Crie um repositório **público** no GitHub chamado exatamente `viniciusbevilaqua` na conta `viniciusbevilaqua`.
+2. Envie o conteúdo desta pasta para o repositório. O `README.md` deve permanecer na raiz.
+3. Mantenha `.github/workflows/snake.yml` no mesmo local mostrado aqui.
+4. No repositório, abra **Settings → Actions → General** e permita **Read and write permissions** para os workflows. Salve a alteração.
+5. Abra a aba **Actions**, escolha **Gerar Snake de Contribuições** e clique em **Run workflow** uma vez.
+6. Quando o workflow terminar, ele criará a branch `output` e publicará a imagem da Snake. O README passará a exibi-la automaticamente.
 
+O workflow será executado novamente todos os dias. Ele usa o `GITHUB_TOKEN` fornecido pelo repositório; não é necessário token pessoal nem segredo adicional.
