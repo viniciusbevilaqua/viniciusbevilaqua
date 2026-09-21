@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Gerar Snake de Contribuições
 
 on:
   schedule:
