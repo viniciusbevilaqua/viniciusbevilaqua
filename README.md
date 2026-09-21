@@ -2,21 +2,21 @@
 
 # Vinícius Bevilaqua
 
-**Computer Science Student · Java Developer in Progress**
+**Estudante de Ciência da Computação · Desenvolvedor Java em formação**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=45&lines=Computer+Science+Student+at+UNIFOR;Java+Developer+in+Progress;Building+Useful+Applications;Learning+Algorithms%2C+Data+Structures%2C+and+Backend+Fundamentals" alt="Computer Science Student at UNIFOR and current development focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UNIFOR;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Construindo+aplica%C3%A7%C3%B5es+%C3%BAteis;Estudando+algoritmos%2C+estruturas+de+dados+e+backend" alt="Estudante de Ciência da Computação na UNIFOR e foco atual em desenvolvimento" />
 </a>
 
 </div>
 
-## About Me
+## Sobre mim
 
-I am a Computer Science student at the University of Fortaleza (UNIFOR), expected to graduate in December 2028. My current focus is Java and solid software-development fundamentals, especially algorithms, data structures, SQL, JDBC, and web development.
+Sou estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR), com previsão de conclusão em dezembro de 2028. Meu foco atual é Java e fundamentos sólidos de desenvolvimento de software, especialmente algoritmos, estruturas de dados, SQL, JDBC e desenvolvimento web.
 
-I learn best by building practical projects and refining them as I study. I am looking for internship opportunities where I can contribute, keep learning, and grow as a software developer.
+Aprendo melhor construindo projetos práticos e aprimorando-os enquanto estudo. Busco oportunidades de estágio nas quais eu possa contribuir, continuar aprendendo e evoluir como desenvolvedor de software.
 
-## Tech Stack
+## Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=FFFFFF" alt="Java" />
@@ -31,37 +31,37 @@ I learn best by building practical projects and refining them as I study. I am l
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
-Currently studying: **Algorithms, Data Structures, SQL, JDBC, Web Development, and Algorithm Analysis.**
+Estudando atualmente: **Algoritmos, Estruturas de Dados, SQL, JDBC, Desenvolvimento Web e Análise de Algoritmos.**
 
-## Featured Projects
+## Projetos em destaque
 
 ### [Accessibility App](https://github.com/viniciusbevilaqua/accessibility-app)
 
-Mobile app for evaluating and discovering places with accessibility information.
+Aplicativo mobile para avaliar e descobrir locais com informações de acessibilidade.
 
 - Built with React Native, Expo, Firebase Authentication, Firestore, React Native Maps, and React Native Paper.
-- My contributions include the Login, Ranking, and Settings screens and features.
+- Minhas contribuições incluem as telas e funcionalidades de Login, Ranking e Configurações.
 
 ### [Academic Mobility System](https://github.com/viniciusbevilaqua/academic-mobility-system)
 
-Academic web system for filtering opportunities, submitting applications, and retaining data locally.
+Sistema web acadêmico para filtrar oportunidades, enviar candidaturas e manter dados localmente.
 
 - Built with HTML, CSS, JavaScript, and LocalStorage.
 
 ### [DevLinks](https://github.com/viniciusbevilaqua/projeto-devlinks)
 
-Web project developed as a focused exercise in building an organized personal links page.
+Projeto web desenvolvido como exercício prático de construção de uma página organizada de links pessoais.
 
 - Built with HTML, CSS, and JavaScript.
 
-## GitHub Snapshot
+## Visão geral do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusbevilaqua&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github" alt="GitHub statistics for Vinícius Bevilaqua" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbevilaqua&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Most used languages by Vinícius Bevilaqua" />
 </p>
 
-## Connect
+## Conecte-se
 
 <p>
   <a href="https://www.linkedin.com/in/vinicius-bevilaqua-9a52522b0/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
@@ -74,6 +74,6 @@ Web project developed as a focused exercise in building an organized personal li
 
 <div align="center">
 
-<sub>Focused on learning through practical software projects.</sub>
+<sub>Focado em aprender por meio de projetos práticos de software.</sub>
 
 </div>
