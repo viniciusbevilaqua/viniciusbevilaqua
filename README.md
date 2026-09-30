@@ -57,8 +57,8 @@ Projeto web desenvolvido como exercício prático de construção de uma página
 ## Visão geral do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusbevilaqua&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github" alt="GitHub statistics for Vinícius Bevilaqua" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbevilaqua&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Most used languages by Vinícius Bevilaqua" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusbevilaqua&theme=github_dark" alt="GitHub statistics for Vinícius Bevilaqua" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusbevilaqua&theme=github_dark" alt="Most used languages by Vinícius Bevilaqua" />
 </p>
 
 ## Conecte-se
