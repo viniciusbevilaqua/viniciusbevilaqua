@@ -5,7 +5,7 @@
 **Estudante de Ciência da Computação · Desenvolvedor Java em formação**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UNIFOR;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Construindo+aplica%C3%A7%C3%B5es+%C3%BAteis;Estudando+algoritmos%2C+estruturas+de+dados+e+backend" alt="Estudante de Ciência da Computação na UNIFOR e foco atual em desenvolvimento" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=000000&center=true&vCenter=true&width=620&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UNIFOR;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Construindo+aplica%C3%A7%C3%B5es+%C3%BAteis;Estudando+algoritmos%2C+estruturas+de+dados+e+backend" alt="Estudante de Ciência da Computação na UNIFOR e foco atual em desenvolvimento" />
 </a>
 
 </div>
